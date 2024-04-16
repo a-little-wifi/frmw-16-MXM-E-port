@@ -24,7 +24,8 @@ Dell's E-port dock uses the JAE WD2 series dock connectors. Part numbers commonl
 * JAE_WD2F144WD4 (E4200)
 * JAE_WD2F144WB3R300 (E4310)
 * JAE_WD2F144WB7-DT (E7440)
+* JAE_WD2F144WB1 (E6400)
 
-Plus a Foxconn alternative used in some of the lasts models:
+Plus a Foxconn alternative used in some of the last models:
 * FOX_QL01723-D265G1-8H (Precision 7510)
 
