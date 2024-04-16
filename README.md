@@ -12,6 +12,7 @@ This is a very unfinished project that I started when the 16" Framework laptop w
 
 The intent was to use the RP2040 to deal with dock port interfaces such as PS/2, I2S audio, and whatever other control signals it needs to function.
 
+MXM part is based on my work on another project: MXM Immobilizer, a PCIe to MXM adapter.
 
 I've manually created the E-port dock connector footprint from the part datasheet: https://www.digikey.com/htmldatasheets/production/547154/0/0/1/wd2m144wb1.pdf  
 
