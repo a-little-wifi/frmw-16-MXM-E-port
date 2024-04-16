@@ -14,7 +14,7 @@ The intent was to use the RP2040 to deal with dock port interfaces such as PS/2,
 
 MXM part is based on my work on another project: MXM Immobilizer, a PCIe to MXM adapter.
 
-I've manually created the E-port dock connector footprint from the part datasheet: https://www.digikey.com/htmldatasheets/production/547154/0/0/1/wd2m144wb1.pdf  
+I've manually created the E-port dock connector footprint from the part datasheet: https://www.mouser.com/pdfdocs/JAEMB-0200-1E_WD2.pdf
 
 Dell's E-port dock uses the JAE WD2 series dock connectors. Part numbers commonly mentioned in applicable schematics are:
 * JAE_WD2F144WB5R400 (M4800)
